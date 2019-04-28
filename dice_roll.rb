@@ -4,5 +4,6 @@
 
 def roll(1..6)
   # code goes here
-  puts 
+  puts (1..6)
 end
+roll #{1..6}
